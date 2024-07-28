@@ -1,2 +1,2 @@
 # testrepo
-## It's a markdown file in this repository
+## The main aim of this repo is to prep for the **github foundations exam** 
